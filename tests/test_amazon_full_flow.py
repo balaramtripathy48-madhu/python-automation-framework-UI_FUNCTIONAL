@@ -12,4 +12,4 @@ def test_amazon_flow(driver,any_item):
         assert "cart" in driver.current_url, "cart in url"
         go_to_home(driver)
         print("home page opened successfully")
-        assert "amazon" in driver.current_url, "amazooon in url"
+        assert "amazon" in driver.current_url, "check the url"
