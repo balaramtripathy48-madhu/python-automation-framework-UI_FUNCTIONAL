@@ -14,7 +14,7 @@ def test_new_window(driver):
 @pytest.mark.practice_alert
 def test_alert_check(driver):
     alert_check_internethookup(driver)
-    assert "windows" in driver.current_url,"invalid url name"
+    assert "alerts" in driver.current_url,"invalid url name"
 
 
 
