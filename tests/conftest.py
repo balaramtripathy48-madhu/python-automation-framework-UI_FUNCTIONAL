@@ -8,10 +8,6 @@ from selenium.webdriver.common.keys import Keys
 @pytest.fixture
 def driver():
     driver = webdriver.Chrome()
+    driver.maximize_window()
     yield driver
     driver.quit()
-
-@pytest.fixture
-def my_input():
-    x = (5,6)
-    return x
