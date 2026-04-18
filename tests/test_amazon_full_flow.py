@@ -5,7 +5,7 @@ from amazon_flow import AmazonPage
 def test_amazon_flow(driver,any_item):
         flow = AmazonPage(driver)
         flow.open_url()
-        flow.enter_search_box("laptop")
+        flow.enter_search_box(any_item)
         flow.add_to_cart()
         flow.go_to_cart()
         flow.go_home_page()

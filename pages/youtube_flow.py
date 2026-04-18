@@ -9,7 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 def youtube_search(driver, search_song, exact_song):
     wait = WebDriverWait(driver, 10)
     driver.get("https://www.youtube.com/")
-    driver.maximize_window()
     search_box = wait.until(EC.element_to_be_clickable((By.NAME, "search_query")))
     search_box.send_keys(search_song)
     search_box.send_keys(Keys.ENTER)
