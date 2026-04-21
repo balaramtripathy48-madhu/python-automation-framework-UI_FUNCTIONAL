@@ -10,7 +10,7 @@ def login_internethookup(driver):
     wait = WebDriverWait(driver, 10)
     driver.get("https://the-internet.herokuapp.com/login")
     login_click = wait.until(EC.element_to_be_clickable((By.XPATH,"//button[@class='radius']")))
-    print("login successful")
+    print("login failed due to invalid details")
     login_click.click()
 
 def alert_check_internethookup(driver):

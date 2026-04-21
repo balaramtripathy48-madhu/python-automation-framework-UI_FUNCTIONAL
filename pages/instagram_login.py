@@ -5,14 +5,14 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-class loginPage:
+class LoginPage:
     def __init__(self,driver):
         self.driver = driver
         self.wait = WebDriverWait(driver, 10)
         #locators
-    username = (By.NAME,"email")
-    password = (By.NAME,"pass")
-    logi_btn = (By.XPATH,"//span[text()='Log in']")
+        self.username = (By.NAME,"email")
+        self.password = (By.NAME,"pass")
+        self.logi_btn = (By.XPATH,"//span[text()='Log in']")
     #enter username & password
 
     def open_url(self):

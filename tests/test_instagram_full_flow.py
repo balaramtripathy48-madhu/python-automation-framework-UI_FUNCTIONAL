@@ -1,12 +1,16 @@
 import pytest
-from pages.instagram_login import  loginPage
-from pages.instagram_logout import instagram_logout
+from instagram_logout import InstagramFlow
+from pages.instagram_login import LoginPage
 @pytest.mark.parametrize("username,password",[("balaramtripathy48@gmail.com","Balia@2001")])
-def test_insta_login(driver,username,password):
-    login = loginPage(driver)
+def test_insta(driver,username,password):
+    login = LoginPage(driver)
+    flow = InstagramFlow(driver)
     login.open_url()
-    login.user_name(username)
-    login.pass_word(password)
+    login.user_name("balaramtripathy48@gmail.com")
+    login.pass_word("Balia@2001")
     login.login_btn()
-    instagram_logout(driver)
+    flow.menu_option()
+    flow.more_option()
+    flow.logout_option()
     assert "instagram" in driver.current_url ,"invalid url"
+

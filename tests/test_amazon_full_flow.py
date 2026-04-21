@@ -1,5 +1,5 @@
 import pytest
-from amazon_flow import AmazonPage
+from pages.amazon_flow import AmazonPage
 @pytest.mark.amazon
 @pytest.mark.parametrize("any_item",["mobiles","led tv"])
 def test_amazon_flow(driver,any_item):
