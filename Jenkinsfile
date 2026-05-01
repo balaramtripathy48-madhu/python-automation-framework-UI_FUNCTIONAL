@@ -16,11 +16,15 @@ pipeline {
 
         stage('Test') {
             steps {
+<<<<<<< HEAD
                 sh '''
                 docker run \
                 -e PYTHONPATH=/app \
                 pytest-image pytest -v
                 '''
+=======
+                sh 'docker run pytest-image pytest -v'
+>>>>>>> 4b6a25a34c554d335e6589e29bed7a278eea2108
             }
         }
     }
