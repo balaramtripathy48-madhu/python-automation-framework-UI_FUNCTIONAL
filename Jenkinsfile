@@ -1,10 +1,5 @@
 pipeline {
-    agent {
-        docker {
-            image 'python:3.10-slim'
-            args '-v /var/run/docker.sock:/var/run/docker.sock'
-        }
-    }
+    agent any
 
     stages {
         stage('Checkout') {
@@ -14,21 +9,28 @@ pipeline {
             }
         }
 
-        stage('Install Dependencies') {
+        stage('Setup Python') {
             steps {
                 sh '''
-                pip install --upgrade pip
-                pip install -r requirements.txt
+                python3 --version || true
+                pip3 install --upgrade pip
+                pip3 install -r requirements.txt
                 '''
             }
         }
 
-        stage('Test') {
+        stage('Run Tests') {
             steps {
                 sh '''
                 pytest -v
                 '''
             }
+        }
+    }
+
+    post {
+        always {
+            echo "Pipeline finished"
         }
     }
 }
