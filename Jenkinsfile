@@ -9,7 +9,7 @@ pipeline {
             }
         }
 
-        stage('Install Dependencies') {
+        stage('Install Python') {
             steps {
                 sh '''
                 apt update
