@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        IMAGE_NAME = "pytest-image"
-    }
-
     stages {
 
         stage('Checkout') {
@@ -16,33 +12,14 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh 'docker build -t $IMAGE_NAME .'
+                sh 'docker build -t pytest-image .'
             }
         }
 
         stage('Test') {
             steps {
-                sh '''
-                docker run --rm \
-                -v $(pwd):/app \
-                -w /app \
-                -e PYTHONPATH=/app \
-                selenium/standalone-firefox \
-                pytest -v
-                '''
+                sh 'docker run --rm pytest-image'
             }
-        }
-    }
-
-    post {
-        always {
-            echo "Pipeline completed"
-        }
-        success {
-            echo "Tests Passed ✅"
-        }
-        failure {
-            echo "Tests Failed ❌"
         }
     }
 }
