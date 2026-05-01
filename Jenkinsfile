@@ -1,8 +1,12 @@
 pipeline {
-    agent any
+    agent {
+        docker {
+            image 'python:3.10-slim'
+            args '-v /var/run/docker.sock:/var/run/docker.sock'
+        }
+    }
 
     stages {
-
         stage('Checkout') {
             steps {
                 git branch: 'main',
@@ -10,15 +14,20 @@ pipeline {
             }
         }
 
-        stage('Build') {
+        stage('Install Dependencies') {
             steps {
-                sh 'docker build -t pytest-image .'
+                sh '''
+                pip install --upgrade pip
+                pip install -r requirements.txt
+                '''
             }
         }
 
         stage('Test') {
             steps {
-                sh 'docker run --rm pytest-image'
+                sh '''
+                pytest -v
+                '''
             }
         }
     }
