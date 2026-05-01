@@ -23,6 +23,7 @@ class InternetHookup:
 
     def enter_password(self, password):
         self.wait.until((EC.element_to_be_clickable(self.password))).send_keys(password)
+        #click login btn
 
     def click_btn(self):
         self.wait.until((EC.element_to_be_clickable(self.login_btn))).click()
