@@ -21,5 +21,6 @@ class LoginPage:
         self.wait.until((EC.visibility_of_element_located(self.username))).send_keys(username)
     def pass_word(self,password):
         self.wait.until((EC.visibility_of_element_located(self.password))).send_keys(password)
+        #click on login
     def login_btn(self):
         self.wait.until((EC.element_to_be_clickable(self.logi_btn))).click()
