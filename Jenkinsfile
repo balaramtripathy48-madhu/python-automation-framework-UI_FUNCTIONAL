@@ -9,11 +9,11 @@ pipeline {
             }
         }
 
-        stage('Setup Python') {
+        stage('Install Dependencies') {
             steps {
                 sh '''
-                python3 --version || true
-                pip3 install --upgrade pip
+                apt update
+                apt install -y python3 python3-pip
                 pip3 install -r requirements.txt
                 '''
             }
@@ -25,12 +25,6 @@ pipeline {
                 pytest -v
                 '''
             }
-        }
-    }
-
-    post {
-        always {
-            echo "Pipeline finished"
         }
     }
 }
