@@ -1,5 +1,5 @@
 import pytest
-from instagram_logout import InstagramFlow
+from pages.instagram_logout import InstagramFlow
 from pages.instagram_login import LoginPage
 @pytest.mark.parametrize("username,password",[("balaramtripathy48@gmail.com","Balia@2001")])
 def test_insta(driver,username,password):
