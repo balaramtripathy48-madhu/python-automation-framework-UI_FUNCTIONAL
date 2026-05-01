@@ -5,9 +5,12 @@ import selenium.webdriver.support.expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
+
 @pytest.fixture
 def driver():
-    driver = webdriver.Firefox()
-    driver.maximize_window()
+    options = Options()
+    options.add_argument("--headless")  # important for Docker
+    driver = webdriver.Firefox(options=options)
     yield driver
     driver.quit()
