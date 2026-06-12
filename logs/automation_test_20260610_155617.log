@@ -1,0 +1,54 @@
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_155617.html
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 15:56:17 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_155617.html
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_155618.html
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_flow.py
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_form_fill_for_all[soumyaranjan-ghadei-soumyaranjan14@gmail.com-Male-6371857414-January-2002-15-English-Reading-cuttack,badabajar-Haryana-Karnal]
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_form_filling.py
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_insta[balaramtripathy48@gmail.com-Balia@2001]
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_instagram_full_flow.py
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 15:56:18 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 15:56:31 - automation_framework.test_form_filling - INFO - [test_form_filling.py:24] - Starting parameterized form filling test for: soumyaranjan ghadei
+2026-06-10 15:56:31 - automation_framework.pages.form_filling - INFO - [form_filling.py:95] - Starting form filling for: soumyaranjan ghadei
+2026-06-10 15:56:45 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:9] - Starting InternetHookup login test
+2026-06-10 15:56:45 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:13] - Starting InternetHookup login
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_insta[balaramtripathy48@gmail.com-Balia@2001] PASSED
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 32.16s
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 15:56:50 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 1
+2026-06-10 15:56:58 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:22] - Login button clicked
+2026-06-10 15:56:58 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:12] - InternetHookup login completed
+2026-06-10 15:56:58 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:14] - Page title verification passed
+2026-06-10 15:56:58 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 15:57:31 - automation_framework.pages.form_filling - INFO - [form_filling.py:165] - Form submitted
+2026-06-10 15:57:31 - automation_framework.pages.form_filling - INFO - [form_filling.py:168] - Form filled successfully for: soumyaranjan ghadei
+2026-06-10 15:57:31 - automation_framework.test_form_filling - INFO - [test_form_filling.py:27] - Parameterized form filling test completed
+2026-06-10 15:57:31 - automation_framework.test_form_filling - INFO - [test_form_filling.py:29] - Form URL verification passed
+2026-06-10 15:57:33 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_new_login PASSED
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 82.96s
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 15:57:41 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_form_fill_for_all[soumyaranjan-ghadei-soumyaranjan14@gmail.com-Male-6371857414-January-2002-15-English-Reading-cuttack,badabajar-Haryana-Karnal] PASSED
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 83.85s
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 15:57:42 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0

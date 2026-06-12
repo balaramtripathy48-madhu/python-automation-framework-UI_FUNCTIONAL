@@ -1,0 +1,94 @@
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145053.html
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145053.html
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145053.html
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145053.html
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_form_fill_for_all[soumyaranjan-ghadei-soumyaranjan14@gmail.com-Male-6371857414-January-2002-15-English-Reading-cuttack,badabajar-Haryana-Karnal]
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_insta[balaramtripathy48@gmail.com-Balia@2001]
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_new_login
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_form_filling.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_new_window
+======================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_flow.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+\test_internethookup_flow.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_instagram_full_flow.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:51:00 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:21] - Starting new window test
+2026-06-10 14:51:00 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:50] - Starting new window test for InternetHookup
+2026-06-10 14:51:03 - automation_framework.test_instagram_full_flow - INFO - [test_instagram_full_flow.py:10] - Starting Instagram login flow test with username: balaramtripathy48@gmail.com
+2026-06-10 14:51:03 - automation_framework.pages.instagram_login - INFO - [instagram_login.py:24] - Opening Instagram login page
+2026-06-10 14:51:06 - automation_framework.pages.instagram_login - INFO - [instagram_login.py:29] - Entering username: balaramtripathy48@gmail.com
+2026-06-10 14:51:07 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:67] - Switched to new window. Current URL: about:blank
+2026-06-10 14:51:08 - automation_framework.pages.internethookup_flow - ERROR - [internethookup_flow.py:75] - Assertion failed: new window not found
+2026-06-10 14:51:08 - automation_framework.test_internethookup_flow - ERROR - [test_internethookup_flow.py:28] - New window test failed: new window not found
+2026-06-10 14:51:09 - automation_framework.reporting_utils - ERROR - [reporting_utils.py:74] - Failure screenshot captured: FAILURE_test_new_window_20260610_145109_041.png
+2026-06-10 14:51:09 - automation_framework.conftest - INFO - [conftest.py:92] - Screenshot attached to HTML report: FAILURE_test_new_window_20260610_145109_041.png
+2026-06-10 14:51:09 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:12 - automation_framework.pages.instagram_login - INFO - [instagram_login.py:38] - Entering password
+2026-06-10 14:51:14 - automation_framework.pages.instagram_login - INFO - [instagram_login.py:48] - Clicking login button
+2026-06-10 14:51:14 - automation_framework.test_instagram_full_flow - INFO - [test_instagram_full_flow.py:19] - Instagram login successful
+2026-06-10 14:51:14 - automation_framework.pages.instagram_logout - INFO - [instagram_logout.py:24] - Clicking menu option
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_new_window PASSED
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 23.35s
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:51:16 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 1
+2026-06-10 14:51:17 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:9] - Starting InternetHookup login test
+2026-06-10 14:51:17 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:13] - Starting InternetHookup login
+2026-06-10 14:51:19 - automation_framework.test_form_filling - INFO - [test_form_filling.py:24] - Starting parameterized form filling test for: soumyaranjan ghadei
+2026-06-10 14:51:19 - automation_framework.pages.form_filling - INFO - [form_filling.py:95] - Starting form filling for: soumyaranjan ghadei
+2026-06-10 14:51:23 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:22] - Login button clicked
+2026-06-10 14:51:23 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:12] - InternetHookup login completed
+2026-06-10 14:51:23 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:14] - Page title verification passed
+2026-06-10 14:51:23 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:25 - automation_framework.pages.instagram_logout - ERROR - [instagram_logout.py:29] - Timeout while clicking menu option
+2026-06-10 14:51:25 - automation_framework.test_instagram_full_flow - ERROR - [test_instagram_full_flow.py:29] - Instagram flow test failed: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:169:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:538:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-06-10 14:51:31 - automation_framework.reporting_utils - ERROR - [reporting_utils.py:74] - Failure screenshot captured: FAILURE_test_insta_balaramtripathy48@gmail.com-Balia@2001__20260610_145131_670.png
+2026-06-10 14:51:31 - automation_framework.conftest - INFO - [conftest.py:92] - Screenshot attached to HTML report: FAILURE_test_insta_balaramtripathy48@gmail.com-Balia@2001__20260610_145131_670.png
+2026-06-10 14:51:31 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_new_login PASSED
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 41.81s
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:51:35 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
+2026-06-10 14:51:39 - automation_framework.pages.form_filling - INFO - [form_filling.py:165] - Form submitted
+2026-06-10 14:51:39 - automation_framework.pages.form_filling - INFO - [form_filling.py:168] - Form filled successfully for: soumyaranjan ghadei
+2026-06-10 14:51:39 - automation_framework.test_form_filling - INFO - [test_form_filling.py:27] - Parameterized form filling test completed
+2026-06-10 14:51:39 - automation_framework.test_form_filling - INFO - [test_form_filling.py:29] - Form URL verification passed
+2026-06-10 14:51:39 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_insta[balaramtripathy48@gmail.com-Balia@2001] PASSED
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 50.67s
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:51:44 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 1
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_form_fill_for_all[soumyaranjan-ghadei-soumyaranjan14@gmail.com-Male-6371857414-January-2002-15-English-Reading-cuttack,badabajar-Haryana-Karnal] PASSED
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 52.77s
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0

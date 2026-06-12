@@ -1,0 +1,48 @@
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_141759.html
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_alert_check
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_flow.py
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:17:59 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:18:10 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:33] - Starting alert check test
+2026-06-10 14:18:10 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:28] - Starting alert check for InternetHookup
+2026-06-10 14:18:22 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:39] - Alert text detected: I am a JS Alert
+2026-06-10 14:18:22 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:36] - Alert check test completed
+2026-06-10 14:18:22 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:38] - URL verification passed
+2026-06-10 14:18:22 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_alert_check PASSED
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 27.58s
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_internet_hookup
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_login.py
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:18:26 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:18:35 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:7] - Starting InternetHookup login test
+2026-06-10 14:18:35 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:23] - Opening InternetHookup login page
+2026-06-10 14:18:39 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:28] - Entering username: tomsmith
+2026-06-10 14:18:39 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:37] - Entering password
+2026-06-10 14:18:39 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:47] - Clicking login button
+2026-06-10 14:18:40 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:50] - Login successful
+2026-06-10 14:18:40 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:14] - InternetHookup login completed
+2026-06-10 14:18:40 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:17] - InternetHookup URL verification passed
+2026-06-10 14:18:40 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_internet_hookup PASSED
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 20.00s
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_youtube_song[dhruv rathee-Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee]
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_search.py
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:18:46 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:18:57 - automation_framework.test_search - INFO - [test_search.py:10] - Starting YouTube search test for: dhruv rathee
+2026-06-10 14:18:57 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:13] - Starting YouTube search for: dhruv rathee
+2026-06-10 14:19:22 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:32] - Clicked on song: Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee
+2026-06-10 14:19:23 - automation_framework.test_search - INFO - [test_search.py:18] - YouTube search test completed successfully for: dhruv rathee
+2026-06-10 14:19:23 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_youtube_song[dhruv rathee-Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee] PASSED
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 42.26s
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:19:29 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
