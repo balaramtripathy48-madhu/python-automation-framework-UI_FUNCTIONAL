@@ -1,0 +1,144 @@
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145052.html
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145052.html
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145052.html
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 14:50:52 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_145052.html
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_amazon_flow[led tv]
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_flipkart_flow[POCO C71]
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_amazon_flow[mobiles]
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_amazon_full_flow.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_filling_form
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_amazon_full_flow.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_form_filling.py
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:50:53 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:51:05 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:10] - Starting Amazon full flow test for item: led tv
+2026-06-10 14:51:05 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:27] - Opening Amazon.in homepage
+2026-06-10 14:51:11 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:10] - Starting Amazon full flow test for item: mobiles
+2026-06-10 14:51:11 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:27] - Opening Amazon.in homepage
+2026-06-10 14:51:15 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:32] - Searching for item: mobiles
+2026-06-10 14:51:17 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:32] - Searching for item: led tv
+2026-06-10 14:51:17 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:43] - Adding item to cart
+2026-06-10 14:51:18 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:43] - Adding item to cart
+2026-06-10 14:51:19 - automation_framework.test_flipkart_flow - INFO - [test_flipkart_flow.py:10] - Starting Flipkart flow test for product: POCO C71
+2026-06-10 14:51:19 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:28] - Opening Flipkart homepage
+2026-06-10 14:51:19 - automation_framework.test_form_filling - INFO - [test_form_filling.py:9] - Starting form filling test
+2026-06-10 14:51:19 - automation_framework.pages.form_filling - INFO - [form_filling.py:13] - Starting form filling automation
+2026-06-10 14:51:21 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:52] - Navigating to cart
+2026-06-10 14:51:24 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:61] - Navigating to home page
+2026-06-10 14:51:25 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:33] - Closing popup
+2026-06-10 14:51:31 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:52] - Navigating to cart
+2026-06-10 14:51:33 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:42] - Searching for item: POCO C71
+2026-06-10 14:51:33 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:18] - Amazon flow completed successfully for item: led tv
+2026-06-10 14:51:33 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:21] - URL verification passed for Amazon
+2026-06-10 14:51:34 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:34 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:73] - Clicking and switching to product window
+2026-06-10 14:51:34 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:55] - Clicking product link
+2026-06-10 14:51:35 - automation_framework.pages.amazon_flow - INFO - [amazon_flow.py:61] - Navigating to home page
+2026-06-10 14:51:38 - automation_framework.pages.form_filling - INFO - [form_filling.py:82] - Form submitted
+2026-06-10 14:51:38 - automation_framework.pages.form_filling - INFO - [form_filling.py:85] - Form filled successfully
+2026-06-10 14:51:38 - automation_framework.test_form_filling - INFO - [test_form_filling.py:12] - Basic form filling test completed
+2026-06-10 14:51:38 - automation_framework.test_form_filling - INFO - [test_form_filling.py:14] - Form URL verification passed
+2026-06-10 14:51:38 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:38 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:18] - Amazon flow completed successfully for item: mobiles
+2026-06-10 14:51:38 - automation_framework.test_amazon_full_flow - INFO - [test_amazon_full_flow.py:21] - URL verification passed for Amazon
+2026-06-10 14:51:39 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_amazon_flow[led tv] PASSED
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 47.86s
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_internet_hookup
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_login.py
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:51:41 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:51:44 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:107] - Starting cart and home navigation sequence
+2026-06-10 14:51:44 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:78] - Navigating to cart
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_filling_form PASSED
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 51.57s
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_youtube_song[ashish chanchlani-ASHISH CHANCHLANI VINES : THE DEVDAS DUB]
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_search.py
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:51:45 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_amazon_flow[mobiles] PASSED
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 53.14s
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_alert_check
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_internethookup_flow.py
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:51:46 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:51:48 - automation_framework.pages.flipkart_flow - INFO - [flipkart_flow.py:92] - Navigating to home page
+2026-06-10 14:51:52 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:7] - Starting InternetHookup login test
+2026-06-10 14:51:52 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:23] - Opening InternetHookup login page
+2026-06-10 14:51:55 - automation_framework.test_search - INFO - [test_search.py:10] - Starting YouTube search test for: ashish chanchlani
+2026-06-10 14:51:55 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:13] - Starting YouTube search for: ashish chanchlani
+2026-06-10 14:51:56 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:28] - Entering username: tomsmith
+2026-06-10 14:51:56 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:37] - Entering password
+2026-06-10 14:51:57 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:47] - Clicking login button
+2026-06-10 14:51:57 - automation_framework.test_flipkart_flow - INFO - [test_flipkart_flow.py:18] - Flipkart flow completed successfully for product: POCO C71
+2026-06-10 14:51:57 - automation_framework.test_flipkart_flow - INFO - [test_flipkart_flow.py:21] - URL verification passed for Flipkart
+2026-06-10 14:51:57 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:57 - automation_framework.pages.Internethookup_login - INFO - [Internethookup_login.py:50] - Login successful
+2026-06-10 14:51:57 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:14] - InternetHookup login completed
+2026-06-10 14:51:57 - automation_framework.test_internethookup_login - INFO - [test_internethookup_login.py:17] - InternetHookup URL verification passed
+2026-06-10 14:51:58 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:51:59 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:33] - Starting alert check test
+2026-06-10 14:51:59 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:28] - Starting alert check for InternetHookup
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_flipkart_flow[POCO C71] PASSED
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 71.22s
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:103] - ======================================================================
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:104] - Starting test: test_youtube_song[dhruv rathee-Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee]
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:105] - Test file: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\tests\test_search.py
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:106] - ======================================================================
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:44] - Initializing WebDriver
+2026-06-10 14:52:04 - automation_framework.pages.internethookup_flow - INFO - [internethookup_flow.py:39] - Alert text detected: I am a JS Alert
+2026-06-10 14:52:04 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:36] - Alert check test completed
+2026-06-10 14:52:04 - automation_framework.test_internethookup_flow - INFO - [test_internethookup_flow.py:38] - URL verification passed
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_internet_hookup PASSED
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 23.52s
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:52:04 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_alert_check PASSED
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 22.21s
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:52:08 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
+2026-06-10 14:52:09 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:32] - Clicked on song: ASHISH CHANCHLANI VINES : THE DEVDAS DUB
+2026-06-10 14:52:09 - automation_framework.test_search - INFO - [test_search.py:18] - YouTube search test completed successfully for: ashish chanchlani
+2026-06-10 14:52:09 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:52:12 - automation_framework.test_search - INFO - [test_search.py:10] - Starting YouTube search test for: dhruv rathee
+2026-06-10 14:52:12 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:13] - Starting YouTube search for: dhruv rathee
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_youtube_song[ashish chanchlani-ASHISH CHANCHLANI VINES : THE DEVDAS DUB] PASSED
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 28.52s
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:52:13 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0
+2026-06-10 14:52:21 - automation_framework.pages.youtube_flow - INFO - [youtube_flow.py:32] - Clicked on song: Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee
+2026-06-10 14:52:22 - automation_framework.test_search - INFO - [test_search.py:18] - YouTube search test completed successfully for: dhruv rathee
+2026-06-10 14:52:22 - automation_framework.conftest - INFO - [conftest.py:55] - Closing WebDriver
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:118] - Test test_youtube_song[dhruv rathee-Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee] PASSED
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:119] - Execution time: 21.22s
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 14:52:25 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 0

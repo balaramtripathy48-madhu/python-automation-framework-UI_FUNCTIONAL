@@ -1,0 +1,7 @@
+2026-06-10 16:12:02 - automation_framework.conftest - INFO - [conftest.py:33] - Pytest HTML reporting configured
+2026-06-10 16:12:02 - automation_framework.conftest - INFO - [conftest.py:34] - Reports will be saved to: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports
+2026-06-10 16:12:02 - automation_framework.conftest - INFO - [conftest.py:35] - HTML report path: C:\Users\ACER\python-automation-framework-UI_FUNCTIONAL\reports\report_20260610_161202.html
+2026-06-10 16:13:41 - automation_framework.conftest - INFO - [conftest.py:127] - ======================================================================
+2026-06-10 16:13:41 - automation_framework.conftest - INFO - [conftest.py:128] - Test Session Summary
+2026-06-10 16:13:41 - automation_framework.conftest - INFO - [conftest.py:129] - ======================================================================
+2026-06-10 16:13:41 - automation_framework.conftest - INFO - [conftest.py:137] - Exit status: 1
